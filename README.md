@@ -13,3 +13,6 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
+
+
+[![](https://jitpack.io/v/Dev-Alaa/Toaster-Library.svg)](https://jitpack.io/#Dev-Alaa/Toaster-Library)
